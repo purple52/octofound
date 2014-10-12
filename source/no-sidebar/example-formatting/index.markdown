@@ -6,7 +6,7 @@ sharing: false
 footer: true
 sidebar: false
 ---
-{% img left http://placekitten.com/200/200 200 200 'Bunny #4' 'An image of a very cute bunny' %}Lorem ipsum dolor sit amet, <strong>vel illum dolore</strong> consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, <em>quis nostrud exerci tation ullamcorper suscipit lobortis nisl</em> ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril <strong><em>delenit augue duis dolore te</em></strong> feugait nulla facilisi. Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.
+{% img left http://placehold.it/200x200 200 200 'Bunny #4' 'An image of a very cute bunny' %}Lorem ipsum dolor sit amet, <strong>vel illum dolore</strong> consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, <em>quis nostrud exerci tation ullamcorper suscipit lobortis nisl</em> ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril <strong><em>delenit augue duis dolore te</em></strong> feugait nulla facilisi. Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.
 
 {% codeblock lang:java %}
 public class SampleCode{
