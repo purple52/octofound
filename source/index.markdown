@@ -36,11 +36,11 @@ Octofound is a Foundation-5 theme for Octopress. <strong><a href="http://octofou
 		<ul>
 			<li><code>$ cd your_octopress_root</code></li>
 			<li><code>$ git clone https://github.com/annejohnson/octofound .themes/octofound</code></li>
-			<li><code>$ rake install['octofound'] (or rake install \['octofound'\])</code></li>
+			<li><code>$ rake install['octofound'] (or rake install\['octofound'\])</code></li>
 			<li><code>$ rake generate</code></li>
 		</ul>
 	</li>
-	<li>Customize site and update the navigation (<strong>_includes/custom/navigation.html</strong>).
+	<li>Customize site and update the navigation (in <strong>_includes/custom/navigation.html</strong>).
 	</li>
 
 </ol>
