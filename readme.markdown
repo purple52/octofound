@@ -1,4 +1,4 @@
-Octofound is a Foundation-5 theme for Octopress. <strong><a href="http://octofound.annekjohnson.com/">Click here for a demo.</a></strong>
+Octofound is a Foundation-5 theme for Octopress. <strong><a href="http://annejohnson.github.io/octofound-demo">Click here for a demo.</a></strong>
 
 <h3>Theme Features:</h3>
 
