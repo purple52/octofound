@@ -3,7 +3,7 @@
 {% endif %}
   <nav class="top-bar" data-topbar>
 
-    <!--Uncomment {{ site.title }}below if you would like a title area on the left side of the nav bar-->
+    <!--Uncomment {{ site.title }} below if you would like a title area on the left side of the nav bar-->
 
     <ul class="title-area">
         <li class="name">
@@ -30,9 +30,7 @@
 
           </li>
 
-          <li{% if page.url == '/blog/index.html' %} class="active"{% endif %}><a href="{{ root_url }}/blog">Blog</a></li>
-
-          <li{% if page.url == '/blog/archives/index.html' %} class="active"{% endif %}><a href="{{ root_url }}/blog/archives">Archives</a></li>
+          <li{% if page.url == '/archives/index.html' %} class="active"{% endif %}><a href="{{ root_url }}/blog/archives">Archives</a></li>
 
       </ul>
 
